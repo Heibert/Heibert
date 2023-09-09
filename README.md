@@ -1,6 +1,6 @@
 # Hi there, I'm Heibert Steven Mogollón Mahecha 👋
 
-I'm a backend-focused developer with skills in Django, Express, React, Laravel, Spring, and more. I'm passionate about building efficient and effective solutions.
+I'm a backend-focused developer with knowledge in Django, Express, React, Laravel, Spring, and more. I'm passionate about building efficient and effective solutions.
 
 ## 📫 How to reach me:
 - Email: heibert203@hotmail.com
