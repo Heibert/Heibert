@@ -1,4 +1,4 @@
-# Hi I'm Heibert Steven Mogollón Mahecha 👋
+# Hi 👋
 
 I'm a backend-focused developer with knowledge in Django, Express, React, Laravel, Spring, and more. I'm passionate about building efficient and effective solutions.
 
@@ -11,6 +11,8 @@ I'm a backend-focused developer with knowledge in Django, Express, React, Larave
 - **Tienda-Laravel:** A PHP project
 - **Discography:** A simple CRUD made in Java
 - **Face-or-seal-JS:** A simple game about tossing a coin
+- **StaffNet** This project is designed for efficient staff management within a company.
+- **INSIGHTS** A website packed with a plethora of tools that are incredibly useful for all staff members.
 - **And much more:** But these are private for now, see next time for the updates
 
 ## ⚡ Fun fact:
