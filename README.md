@@ -22,6 +22,3 @@ I'm a huge fan of strategy games, and I often spend my weekends playing online w
 
 ## 📈 My GitHub Stats
 ![Heibert's GitHub stats](https://github-readme-stats.vercel.app/api?username=heibert&show_icons=true&theme=dark)
-
-## 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heibert&layout=compact&theme=dark)](https://github.com/heibert203)
