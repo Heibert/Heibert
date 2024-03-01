@@ -13,7 +13,7 @@ I'm a backend-focused developer with knowledge in Django, Express, React, Larave
 - **Discography:** A simple CRUD made in Java
 - **Face-or-seal-JS:** A simple game about tossing a coin
 - **StaffNet** This project is designed for efficient staff management within a company.
-- **INSIGHTS** A website packed with a plethora of tools that are incredibly useful for all staff members.
+- **INSIGHTS** A website packed with a multiple tools for the staff members.
 - **And much more:** But these are private for now, see next time for the updates
 
 ## ⚡ Fun fact:
