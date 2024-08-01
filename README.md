@@ -8,7 +8,7 @@ I'm a backend-focused developer with knowledge in Django, Express, React, Larave
 - LinkedIn: https://www.linkedin.com/in/heibert-mogollon/
 
 ## 🔭 My Projects:
-- **INSIGHTS** A website packed with a multiple tools for the staff members.
+- **INSIGHTS** A comprehensive website offering multiple tools for staff members. Currently, this is my largest project by a significant margin.
 - **StaffNet** This project is designed for efficient staff management within a company.
 - **CherPro:** A Management Assistance System using PHP and React
 - **Discography:** A simple CRUD made in Java
